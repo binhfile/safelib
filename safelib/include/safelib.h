@@ -8,6 +8,7 @@
 #include <string.h>
 #include <stdio.h>
 
+
 #ifdef USE_SECURE_LIB
 #define SAFELIB_MAX_STRING_LENGTH			4096	/*one page*/
 /*string function*/
